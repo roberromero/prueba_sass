@@ -1,0 +1,22 @@
+.caja {
+  background-color: bisque;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 6px;
+  margin: 2px;
+}
+
+.caja h2 {
+  color: red;
+  padding: 3px;
+}
+.caja p {
+  color: purple;
+  padding: 3px;
+}
+
+body {
+  background-color: #ccc;
+  color: green;
+}
+
+/*# sourceMappingURL=style.css.map */

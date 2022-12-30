@@ -1,0 +1,19 @@
+//partials
+@use 'modulo-adicional';
+
+//variables
+$color-principal: #ccc;
+$color-letra: green;
+
+body{
+    background-color: $color-principal;
+    color: $color-letra;
+}
+
+
+
+
+
+// En la consola hay que añadir :
+// sass --watch input.scss output.css
+//En input añadimos el archivo sass y en output su versión compilada de css
